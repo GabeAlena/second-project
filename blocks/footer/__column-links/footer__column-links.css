@@ -1,0 +1,8 @@
+/*маленький блок под "о практикуме"*/
+.footer__column-links {
+    color: #ffffff;
+    list-style-type: none;
+    padding-left: 0;
+    padding-top: 20px;
+    margin-top: 0;
+  }

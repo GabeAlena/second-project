@@ -1,9 +1,8 @@
-/*левая часть контейнера с лого и автором*/
 .footer__column_content_copyright {
-    color: #ffffff;
-    flex-basis: 711px;
-    padding-bottom: 0;
-    display: flex;
-    flex-direction: column;
-    justify-content: space-between;
-  }
+  color: #ffffff;
+  flex-basis: 711px;
+  padding-bottom: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}

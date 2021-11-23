@@ -1,10 +1,9 @@
-/*весь контейнер в подвале*/
 .footer__columns {
-    display: flex;
-    justify-content: space-between;
-    margin: auto;
-    color: #ffffff;
-    width: 90%;
-    margin-top: 60px;
-    margin-bottom: 40px;
-  }
+  display: flex;
+  justify-content: space-between;
+  margin: auto;
+  color: #ffffff;
+  width: 90%;
+  margin-top: 60px;
+  margin-bottom: 40px;
+}

@@ -1,9 +1,8 @@
-/*автор*/
 .footer__author {
-    color: #ffffff;
-    line-height: 25px;
-    font-size: 18px;
-    font-style: normal;
-    padding-top: 18px;
-    margin-bottom: 18px;
-  }
+  color: #ffffff;
+  line-height: 25px;
+  font-size: 18px;
+  font-style: normal;
+  padding-top: 18px;
+  margin-bottom: 18px;
+}
